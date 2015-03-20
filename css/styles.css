@@ -1,3 +1,5 @@
+/*Personal Data*/
+
 .PersonalData{
 	width: 1110px;
 	height: 375px;
@@ -32,10 +34,18 @@
 	height: 175px;
 }
 
+.general{
+	margin-top: -30px;
+	margin-left: 100px;
+	color: white;
+}
+
 .Skill{
 	font-size: 30px;
 	color: #FFBF00;
 }
+
+/*Work Data*/
 .WorkData{
 	margin-top: 15px;
 	width: 1110px;
@@ -44,10 +54,17 @@
 
 }
 
+
+/*Proyects*/
 .Proyects{
 	margin-top: 15px;
 	width: 1110px;
-	height: 250px;
+	height: 150px;
+}
+.Experience{
+	font-size: 20px;
+	color: #151515;
+	margin-left: 20px;
 }
 
 .Title{
@@ -55,11 +72,6 @@
 	margin-left:15px; 
 }
 
-.general{
-	margin-top: -30px;
-	margin-left: 100px;
-	color: white;
-}
 
 .location{
 	margin-left: 110px;
@@ -71,5 +83,12 @@
 
 .sk{
 	color: white;
+	font-size: 20px;
+}
+
+
+
+.Proyect{
+	margin-left: 20px;
 	font-size: 20px;
 }
