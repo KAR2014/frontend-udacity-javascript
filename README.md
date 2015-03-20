@@ -5,5 +5,8 @@ Complete Udacity's course [Intro to Javascript basics](https://www.udacity.com/c
 - For final project, fork this repository
 - Complete the project and push it to your Github account
 - Make Pull-Request to Cognits
+- 
+### See My Proyect Here:
+### http://kar2014.github.io/frontend-udacity-javascript
 
 
